@@ -3,3 +3,5 @@ This first file for creating git repository
 edit
 
 next edit without comit
+
+Making changes in Puja's repo from my account.
